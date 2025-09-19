@@ -11,7 +11,7 @@ void analyze_pointer(int* ptr) {
 int main() {
 	// Part 1
 	int number = 2005;
-	//analyze_pointer(&number);
+	analyze_pointer(&number);
 
 	// Part 2
 	
